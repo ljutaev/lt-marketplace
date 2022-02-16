@@ -1,5 +1,1 @@
 <?php
-/*
- * call the framework
- *
- */
