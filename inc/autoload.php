@@ -18,7 +18,6 @@ if( ! function_exists('dd') ) {
 
 /*
  * autoload
- *
  */
 spl_autoload_register( function( $class_name ) {
     if ( strpos( $class_name, 'LtMarketplace' ) === false ) { return; }
